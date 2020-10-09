@@ -1,0 +1,13 @@
+H:\engagements\ComputerCoach\20200929cs\basicdatatypes\obj\Debug\netcoreapp3.1\basicdatatypes.csprojAssemblyReference.cache
+H:\engagements\ComputerCoach\20200929cs\basicdatatypes\obj\Debug\netcoreapp3.1\basicdatatypes.AssemblyInfoInputs.cache
+H:\engagements\ComputerCoach\20200929cs\basicdatatypes\obj\Debug\netcoreapp3.1\basicdatatypes.AssemblyInfo.cs
+H:\engagements\ComputerCoach\20200929cs\basicdatatypes\obj\Debug\netcoreapp3.1\basicdatatypes.csproj.CoreCompileInputs.cache
+H:\engagements\ComputerCoach\20200929cs\basicdatatypes\bin\Debug\netcoreapp3.1\basicdatatypes.exe
+H:\engagements\ComputerCoach\20200929cs\basicdatatypes\bin\Debug\netcoreapp3.1\basicdatatypes.deps.json
+H:\engagements\ComputerCoach\20200929cs\basicdatatypes\bin\Debug\netcoreapp3.1\basicdatatypes.runtimeconfig.json
+H:\engagements\ComputerCoach\20200929cs\basicdatatypes\bin\Debug\netcoreapp3.1\basicdatatypes.runtimeconfig.dev.json
+H:\engagements\ComputerCoach\20200929cs\basicdatatypes\bin\Debug\netcoreapp3.1\basicdatatypes.dll
+H:\engagements\ComputerCoach\20200929cs\basicdatatypes\bin\Debug\netcoreapp3.1\basicdatatypes.pdb
+H:\engagements\ComputerCoach\20200929cs\basicdatatypes\obj\Debug\netcoreapp3.1\basicdatatypes.dll
+H:\engagements\ComputerCoach\20200929cs\basicdatatypes\obj\Debug\netcoreapp3.1\basicdatatypes.pdb
+H:\engagements\ComputerCoach\20200929cs\basicdatatypes\obj\Debug\netcoreapp3.1\basicdatatypes.genruntimeconfig.cache
